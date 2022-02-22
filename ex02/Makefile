@@ -1,4 +1,4 @@
-NAME=fakeFixed
+NAME=Fixed
 FLAGS=-Wall -Wextra -Werror
 SRCS=main.cpp Fixed.cpp
 
