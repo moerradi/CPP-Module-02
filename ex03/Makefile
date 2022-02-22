@@ -1,6 +1,6 @@
 NAME=BSP
 FLAGS=-Wall -Wextra -Werror
-SRCS=main.cpp Fixed.cpp bsp.cpp
+SRCS=main.cpp Fixed.cpp Point.cpp bsp.cpp
 
 all: $(NAME)
 
